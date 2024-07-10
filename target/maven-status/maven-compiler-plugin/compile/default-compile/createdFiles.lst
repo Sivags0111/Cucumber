@@ -1,0 +1,8 @@
+com\Manager\LoginPage_POManager.class
+com\Model\LoginPage_Model.class
+com\rough\Amazon_Purchase.class
+com\helper\Data_Reader.class
+com\rough\Baronfig_Demo.class
+com\Model\LoginPage_Model2.class
+com\helper\Data_Reader_Manager.class
+com\base\BaseClass_Cucumber.class
